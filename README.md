@@ -37,9 +37,10 @@ For the Voice Assistant at home:
 
 Alexa Voice Service (AVS) Device SDK has been implemented as the voice assistant on the Raspberry Pi. Same can be done by:
 
-    Register your device with Amazon.
-    Install and configure dependencies for the AVS Device SDK on your Raspberry Pi.
-    Build the SDK and run the sample app on your Raspberry Pi. Once the Raspberry Pi has been registered & created the security profile, a Json configuration file (CONFIG.JSON) can be downloaded which contains client ID and client secret code. This can be used for the authenticate the Raspberry Pi to interact with Alexa services.
+Register your device with Amazon.
+
+Install and configure dependencies for the AVS Device SDK on your Raspberry Pi.
+Build the SDK and run the sample app on your Raspberry Pi. Once the Raspberry Pi has been registered & created the security profile, a Json configuration file (CONFIG.JSON) can be downloaded which contains client ID and client secret code. This can be used for the authenticate the Raspberry Pi to interact with Alexa services.
 
 Required components:
 
@@ -49,6 +50,11 @@ Required components:
 
 Once the AVS Device SDK has been implemented in Raspberry Pi following the instructions, the next step is to launch the sample App using the command:
 
-‘cd /home/pi/ sudo bash startsample.s’
+    ‘cd /home/pi/ sudo bash startsample.s’
 
 The App can be activated with the wake word ‘Alexa’ & can start asking the questions.
+
+Useful Links
+Adafruit IO - https://io.adafruit.com
+IFTTT - https://ifttt.com
+Amazon Voice Service - https://developer.amazon.com/docs/alexa-voice-service/launch-sample-app.html
