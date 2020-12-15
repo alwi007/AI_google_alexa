@@ -55,6 +55,6 @@ Once the AVS Device SDK has been implemented in Raspberry Pi following the instr
 The App can be activated with the wake word ‘Alexa’ & can start asking the questions.
 
 Useful Links
-    Adafruit IO - https://io.adafruit.com
-    IFTTT - https://ifttt.com
-    Amazon Voice Service - https://developer.amazon.com/docs/alexa-voice-service/launch-sample-app.html
+Adafruit IO - https://io.adafruit.com
+IFTTT - https://ifttt.com
+Amazon Voice Service - https://developer.amazon.com/docs/alexa-voice-service/launch-sample-app.html
